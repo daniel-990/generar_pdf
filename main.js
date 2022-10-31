@@ -4,6 +4,8 @@
              * https://github.com/parallax/jsPDF
              * documentacion persistencia en el navegador
              * https://pouchdb.com/
+             * codigo de barras
+             * https://lindell.me/JsBarcode/
              */
              let mostrarDatosHtmlPdf = () => {  
 
